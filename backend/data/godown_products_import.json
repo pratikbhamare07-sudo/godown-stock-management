@@ -1,0 +1,712 @@
+[
+  {
+    "productName": "Raisins Regular Green RG (Packing)",
+    "productCode": "GDN001",
+    "category": "Raisins",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Green RG (Packing)",
+    "productCode": "GDN002",
+    "category": "Raisins",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Green RG (Packing)",
+    "productCode": "GDN003",
+    "category": "Raisins",
+    "packing": "1 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Black RB (Packing)",
+    "productCode": "GDN004",
+    "category": "Raisins",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Black RB (Packing)",
+    "productCode": "GDN005",
+    "category": "Raisins",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Black RB (Packing)",
+    "productCode": "GDN006",
+    "category": "Raisins",
+    "packing": "1 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Green RG (Loose)",
+    "productCode": "GDN007",
+    "category": "Raisins",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Green RG (Loose)",
+    "productCode": "GDN008",
+    "category": "Raisins",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Green RG (Loose)",
+    "productCode": "GDN009",
+    "category": "Raisins",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Green RG (Loose)",
+    "productCode": "GDN010",
+    "category": "Raisins",
+    "packing": "1 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Black RB (Loose)",
+    "productCode": "GDN011",
+    "category": "Raisins",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Black RB (Loose)",
+    "productCode": "GDN012",
+    "category": "Raisins",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Black RB (Loose)",
+    "productCode": "GDN013",
+    "category": "Raisins",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Raisins Regular Black RB (Loose)",
+    "productCode": "GDN014",
+    "category": "Raisins",
+    "packing": "1 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "TAAZ Loose Packing (Green Kishmish) Pouch",
+    "productCode": "GDN015",
+    "category": "Raisins",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "TAAZ Loose Packing (Green Kishmish) BOX",
+    "productCode": "GDN016",
+    "category": "Raisins",
+    "packing": "5 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "NAAZ Loose Packing (Black Kishmish) Pouch",
+    "productCode": "GDN017",
+    "category": "Raisins",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "NAAZ Loose Packing (Black Kishmish) BOX",
+    "productCode": "GDN018",
+    "category": "Raisins",
+    "packing": "5 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "PRFS ( Premium Red Flame Seedless)",
+    "productCode": "GDN019",
+    "category": "Other",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "SPLS (Spl. Long Sonaka)",
+    "productCode": "GDN020",
+    "category": "Other",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "SPBL ( Spl. Afgan Black Seeded)",
+    "productCode": "GDN021",
+    "category": "Other",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Multi Flora Honey ( Pet Bottles)",
+    "productCode": "GDN022",
+    "category": "Honey",
+    "packing": "125 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Multi Flora Honey ( Pet Bottles)",
+    "productCode": "GDN023",
+    "category": "Honey",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Multi Flora Honey ( Pet Bottles)",
+    "productCode": "GDN024",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Multi Flora Honey ( Pet Bottles)",
+    "productCode": "GDN025",
+    "category": "Honey",
+    "packing": "1 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Acacia Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN026",
+    "category": "Honey",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Acacia Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN027",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Ajwine Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN028",
+    "category": "Honey",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Ajwine Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN029",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Tulsi Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN030",
+    "category": "Honey",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Tulsi Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN031",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Jamun Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN032",
+    "category": "Honey",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Jamun Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN033",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Fennel Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN034",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Litchi Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN035",
+    "category": "Honey",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Litchi Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN036",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Sheesham Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN037",
+    "category": "Honey",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Sheesham Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN038",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Eucalyptus Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN039",
+    "category": "Honey",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Eucalyptus Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN040",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Sunflower Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN041",
+    "category": "Honey",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Sunflower Unifloral Honey (Glass Bottle)",
+    "productCode": "GDN042",
+    "category": "Honey",
+    "packing": "500 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Jamun Unifloral Honey (Pet Bottle)",
+    "productCode": "GDN043",
+    "category": "Honey",
+    "packing": "125 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Premium Ajwine Unifloral Honey (Pet Bottle)",
+    "productCode": "GDN044",
+    "category": "Honey",
+    "packing": "125 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Eucalyptus Unifloral Honey (Pet Bottle)",
+    "productCode": "GDN045",
+    "category": "Honey",
+    "packing": "125 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Special Sheesham Unifloral Honey (Pet Bottle)",
+    "productCode": "GDN046",
+    "category": "Honey",
+    "packing": "125 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Tomato Ketchup (Pouch)",
+    "productCode": "GDN047",
+    "category": "Ketchup",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Tomato Ketchup (Pouch)",
+    "productCode": "GDN048",
+    "category": "Ketchup",
+    "packing": "400 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Tomato Ketchup (Pouch)",
+    "productCode": "GDN049",
+    "category": "Ketchup",
+    "packing": "1 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Tomato Ketchup (Glass Bottle)",
+    "productCode": "GDN050",
+    "category": "Ketchup",
+    "packing": "200 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Tomato Ketchup (Glass Bottle)",
+    "productCode": "GDN051",
+    "category": "Ketchup",
+    "packing": "1 kg",
+    "unit": "KG",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Honey Lemon Drink",
+    "productCode": "GDN052",
+    "category": "Honey",
+    "packing": "250 ml",
+    "unit": "ML",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Honey Lemon Drink",
+    "productCode": "GDN053",
+    "category": "Honey",
+    "packing": "750 ml",
+    "unit": "ML",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Guava Juice",
+    "productCode": "GDN054",
+    "category": "Beverages",
+    "packing": "250 ml",
+    "unit": "ML",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Guava Juice",
+    "productCode": "GDN055",
+    "category": "Beverages",
+    "packing": "750 ml",
+    "unit": "ML",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Chocolate Kishmish (Raisin)",
+    "productCode": "GDN056",
+    "category": "Raisins",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Chocolate Coated (Almond) PET Cans",
+    "productCode": "GDN057",
+    "category": "Chocolate & Snacks",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Chocolate Coated (Cashew) PET Cans",
+    "productCode": "GDN058",
+    "category": "Chocolate & Snacks",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Flavour Nutties (Pista)",
+    "productCode": "GDN059",
+    "category": "Chocolate & Snacks",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Flavour Nutties (Mango)",
+    "productCode": "GDN060",
+    "category": "Chocolate & Snacks",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Flavour Nutties (Orange)",
+    "productCode": "GDN061",
+    "category": "Chocolate & Snacks",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Flavour Nutties (Strawberry)",
+    "productCode": "GDN062",
+    "category": "Chocolate & Snacks",
+    "packing": "101 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Chocolate Bite (Raisins)",
+    "productCode": "GDN063",
+    "category": "Raisins",
+    "packing": "10 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Chocolate Bite (Honey)",
+    "productCode": "GDN064",
+    "category": "Honey",
+    "packing": "10 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Honey Dry Fruits (Glass Bottle)",
+    "productCode": "GDN065",
+    "category": "Honey",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Honey Balushahi",
+    "productCode": "GDN066",
+    "category": "Honey",
+    "packing": "250 Gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Honey Amla Candy (Pet Cans)",
+    "productCode": "GDN067",
+    "category": "Honey",
+    "packing": "100 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Honey Amla Candy (Pet Cans)",
+    "productCode": "GDN068",
+    "category": "Honey",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "Honey Sticks",
+    "productCode": "GDN069",
+    "category": "Honey",
+    "packing": "8 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "RAAZ Pouch (Flame)",
+    "productCode": "GDN070",
+    "category": "Other",
+    "packing": "250 gm",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  },
+  {
+    "productName": "HONEY AMLA GULKAND",
+    "productCode": "GDN071",
+    "category": "Honey",
+    "packing": "250 GM",
+    "unit": "GM",
+    "openingStock": 0,
+    "currentStock": 0,
+    "minimumStock": 10
+  }
+]
